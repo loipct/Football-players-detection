@@ -1,5 +1,5 @@
 # Football-players-detection
-- Dataset :https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/4/download
+- Dataset : https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/4/download
 - Detecting football players with Yolov8/C++ 
 
 1. Training model detection by Python (yolov8.ipynb)
